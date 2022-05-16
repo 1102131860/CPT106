@@ -1,0 +1,5 @@
+RawMaterialName	Price
+fish	12
+tamato	15.2
+pork	23
+beef	30

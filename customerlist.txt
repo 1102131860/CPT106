@@ -1,0 +1,7 @@
+Customerid	DishesBasket	TotalPrice	Profits
+1	1.fish and potato,2.pork and tomato	84	54
+2	2.pork and tomato,3.egg and tomato	63	38
+3	3.egg and tomato,2.pork and tomato	169	65.5
+4	2.pork and tomato,4.pork and green pepper	80	28
+5	1.fish and potato,2.pork and tomato,4.pork and green pepper	116	40
+6	5.green pepper and egg,4.pork and green pepper	50	18

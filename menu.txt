@@ -1,0 +1,6 @@
+Dishesid	Name	Price	Cost	RawMaterialName	NumOrdered
+1	fish and potato	36	24	fish,potato,scallion	35
+2	pork and tomato	48	30	pork,tomato,ginger	28
+3	egg and tomato	15	8	egg,tomato	66
+5	green pepper and egg	18	10	green pepper,egg	2
+4	pork and green pepper	32	22	pork,green pepper	3
