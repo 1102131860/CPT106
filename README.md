@@ -11,4 +11,5 @@ The system should be able to provide functionality as listed below:
 <li>Customer user can browse the menu, order dishes and check-out</li>
 <li>Provides different authority to different type of users</li>
 
+
 There are UML diagram and flowchart to illustrate the strcuture and operation of the system
