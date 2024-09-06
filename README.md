@@ -10,3 +10,5 @@ The system should be able to provide functionality as listed below:
 <li>While adding a new dish to the menu, make sure the dish ID and name will not be repeated; when customer is ordering dishes, make sure that’s not repeated either</li>
 <li>Customer user can browse the menu, order dishes and check-out</li>
 <li>Provides different authority to different type of users</li>
+
+There are UML diagram and flowchart to illustrate the strcuture and operation of the system
